@@ -1,0 +1,23 @@
+/* html {
+    scroll-behavior: smooth;
+} */
+
+.bi-facebook {
+    color: blue;
+}
+
+.bi-instagram {
+    color: #8a3ab9;
+}
+
+.navbar {
+    position: fixed;
+    z-index: 999;
+    top: 0;
+    right: 0;
+    left: 0;
+}
+
+#main {
+    padding-top: 40px;
+}
