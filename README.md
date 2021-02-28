@@ -3,7 +3,7 @@
 ### Languange & tools
 - HTML
 - CSS
-- JS
+- JS (jQuery)
 - Aos.Js
 - Bootstrap v4.6
 
